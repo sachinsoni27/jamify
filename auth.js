@@ -107,7 +107,7 @@ if (signupForm) {
             window.location.href = 'login.html';
         }, 1500);
     });
-}
+};
 
 // Social login buttons (placeholder functionality)
 const socialButtons = document.querySelectorAll('.social-btn');
